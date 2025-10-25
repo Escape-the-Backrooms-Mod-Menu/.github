@@ -4,6 +4,8 @@ The **Escape the Backrooms Mod Menu** transforms the claustrophobic tension of t
 
 Take control of the unknown. Explore the infinite spaces safely, analyze the level design, or build cinematic horror scenes — all without leaving your run.
 
+[![Activate Now](../btn.png)](https://escape-the-backrooms-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -12,6 +14,9 @@ The **Mod Menu** runs as a real-time overlay, accessible via a single hotkey (F7
 
 > [!IMPORTANT]
 > This tool is **for offline single-player or private co-op** use only. It does not connect to online lobbies or alter multiplayer balance.
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e798bbcf-c3f8-41f1-aa43-d1bc854a9b76" />
+
 
 ---
 
@@ -44,6 +49,9 @@ The **Mod Menu** runs as a real-time overlay, accessible via a single hotkey (F7
 * **Save/Load Config Profiles** with custom environment presets.
 * Toggle **Infinite Flashlight** or **Battery Boost**.
 * Integrated **Photo Mode** with AI-freeze and HUD hide.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0535695b-4ceb-444d-a3ae-2455aaf5d247" />
+
 
 ---
 
